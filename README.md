@@ -1,7 +1,7 @@
-### Hello there! I'm a Front-end developer.
+## Hello there! I'm a Front-end developer.
 I've been building web sites and web applications. Open for cooperations.
 
-## Technologies and tools i use:
+### Technologies and tools i use:
 - JavaScript, React, OOP, BEM, webpack, REST API, HTML, CSS
 
 <!--
