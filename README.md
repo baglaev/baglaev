@@ -1,4 +1,4 @@
-## Hello there! I'm a Front-end developer.
+## Hello there! I'm a Frontend developer.
 I've been building web sites and web applications. Open for cooperations.
 
 ### Technologies and tools i use:
